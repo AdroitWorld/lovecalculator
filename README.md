@@ -1,1 +1,1 @@
-<h1>  https://adroitworld.github.io/loveclaculator/.  </h1>
+<h1>  https://adroitworld.github.io/lovecalculator  </h1>
